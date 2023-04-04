@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc207447.css",
+    "main.js": "/static/js/main.6a0a9e44.js",
+    "static/media/fondo-1.jpg": "/static/media/fondo-1.e18c6e3b3e10759afc98.jpg",
+    "static/media/fondo-3.png": "/static/media/fondo-3.a09b01e301f0cfc44111.png",
+    "static/media/fondo-2-random.jpg": "/static/media/fondo-2-random.aa0fe64d88bd2d53adf7.jpg",
+    "static/media/nombre.png": "/static/media/nombre.7e5b4541a856601079c2.png",
+    "static/media/fondo-logo.jpg": "/static/media/fondo-logo.ff7c5dc607b70647b8ed.jpg",
+    "static/media/Fondo-random.jpg": "/static/media/Fondo-random.6cfed6d7ec3f0de43645.jpg",
+    "static/media/correo-logo.jpg": "/static/media/correo-logo.ddaafb9d83fe4cfda5f9.jpg",
+    "index.html": "/index.html",
+    "main.bc207447.css.map": "/static/css/main.bc207447.css.map",
+    "main.6a0a9e44.js.map": "/static/js/main.6a0a9e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc207447.css",
+    "static/js/main.6a0a9e44.js"
+  ]
+}
